@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "My Stream",
+      "description": "This is a great stream, watch it!",
+      "id": 2
+    },
+    {
+      "title": "Other Stream",
+      "description": "Here's some stream.",
+      "id": 3
+    },
+    {
+      "title": "I Created This Stream",
+      "description": "I Got the POWAH!!",
+      "userId": "102676736524037415543",
+      "id": 4
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "PUT suuuuuuucks PATCH 4 LIIIIIIIIIIIFE!!",
+      "userId": "102676736524037415543",
+      "id": 6
+    },
+    {
+      "title": "Me Streaming Nothing (Now Something)",
+      "description": "Nothing at All (Nah Still Nuthin')",
+      "id": 7
+    }
+  ]
+}
