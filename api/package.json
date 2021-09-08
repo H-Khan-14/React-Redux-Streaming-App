@@ -1,10 +1,13 @@
 {
+  "homepage": "http://H-Khan-14.github.io/React-Redux-Streaming-App",
   "name": "api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server -p 3001 -w db.json"
+    "start": "json-server -p 3001 -w db.json",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "author": "",
   "license": "ISC",
