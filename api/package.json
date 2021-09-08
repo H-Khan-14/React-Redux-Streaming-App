@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "author": "",
+  "author": "HK",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.1"
